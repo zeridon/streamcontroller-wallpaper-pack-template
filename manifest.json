@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1-dev",
+  "thumbnail": "store/thumbnail.png",
+  "id": "net_getoto_wallpaperpack_template",
+  "name": "Name for the wallpaper pack",
+  "descriptions": {
+    "en_US": "Localized long description"
+  },
+  "short-descriptions": {
+    "en_US": "Localized short description"
+  },
+
+  "description": "Long description shown in some places",
+  "short-description": "Short description",
+
+  "author": "author",
+
+  "minimum-app-version": "1.0.0",
+  "app-version": "1.0.0",
+
+  "tags": [
+    "wallpapers",
+    "not yet displayed"
+  ],
+
+  "images": "images/"
+}

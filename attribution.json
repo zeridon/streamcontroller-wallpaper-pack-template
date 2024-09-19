@@ -1,0 +1,41 @@
+{
+  "images/stream-deck-mk.2/sample_720x512.png": {
+    "name": "Sample optimized for Stream Deck MK.2",
+    "description": "This is sample image optimized for Stream Deck MK.2. Image should be 720x512 px. Resolution per button is 72x72 so plan for double res",
+    "original-url": "https://github.com/zeridon/streamcontroller-wallpapers/blob/master/images/stream-deck-mk.2/sample_720x512.png",
+    "copyright": "Respective copyright",
+    "license": "MIT where not specified",
+    "license-url": "https://opensource.org/license/mit"
+  },
+  "images/stream-deck-mini/sample_432x288.png": {
+    "name": "Sample optimized for Stream Deck mini",
+    "description": "This is sample image optimized for Stream Deck mini. Image should be 432x288 px. Resolution per button is 72x72 so plan for double res",
+    "original-url": "https://github.com/zeridon/streamcontroller-wallpapers/blob/master/images/stream-deck-mini/sample_432x288.png",
+    "copyright": "Respective copyright",
+    "license": "MIT where not specified",
+    "license-url": "https://opensource.org/license/mit"
+  },
+  "images/stream-deck-xl/sample_1104x768.png": {
+    "name": "Sample optimized for Stream Deck XL",
+    "description": "This is sample image optimized for Stream Deck mini. Image should be 1104x768 px. Resolution per button is 96x96 so plan for double res",
+    "original-url": "https://github.com/zeridon/streamcontroller-wallpapers/blob/master/images/stream-deck-xl/sample_1104x768.png",
+    "copyright": "Respective copyright",
+    "license": "MIT where not specified",
+    "license-url": "https://opensource.org/license/mit"
+  },
+
+  "generic": {
+    "copyright": "Respective authors",
+    "original-url": "https://github.com/zeridon/streamcontroller-wallpapers",
+    "license": "MIT where not specified",
+    "license-url": "https://opensource.org/license/mit",
+    "description": "Some of my wallpapers used in StreamController. Wallpepers themselves are copyright their respective owners. If license is known also is set."
+  },
+  "default": {
+    "copyright": "Respective authors",
+    "original-url": "https://github.com/zeridon/streamcontroller-wallpapers",
+    "license": "MIT where not specified",
+    "license-url": "https://opensource.org/license/mit",
+    "description": "Some of my wallpapers used in StreamController. Wallpepers themselves are copyright their respective owners. If license is known also is set."
+  }
+}
